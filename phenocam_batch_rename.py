@@ -101,8 +101,7 @@ errors.config(bg = bgColor)
 
 locationList = [
     "Location",
-    "Concord",
-    "EdenLanding"
+    "RRC"
 ]
 
 
